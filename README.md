@@ -1,3 +1,5 @@
+설명은 https://kkhcode.tistory.com/16
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
